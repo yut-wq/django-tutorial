@@ -13,3 +13,5 @@
 ### 開発サーバーの実行
 
 `uv run ./djangotutorial/manage.py runserver`
+
+`uv run ./manage.py runserver`
