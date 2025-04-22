@@ -15,3 +15,7 @@
 `uv run ./djangotutorial/manage.py runserver`
 
 `uv run ./manage.py runserver`
+
+### テストの実行
+
+`uv run ./manage.py test polls`
