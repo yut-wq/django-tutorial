@@ -1,5 +1,7 @@
 # Django チュートリアル with uv
 
+<https://www.djangoproject.com/>
+
 ## 各種コマンド
 
 ### Django のバージョン確認
